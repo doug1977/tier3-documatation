@@ -1,0 +1,12 @@
+
+.ui-tabs .ui-tabs-panel {
+        display: block;
+        border-width: 1px;
+        padding: 0.5em 0.5em;
+        background: #eee;
+}
+
+hr {
+   height: 3px;
+   background: #555;
+}
